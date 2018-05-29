@@ -88,8 +88,7 @@ describe("Fetch cities from wiki", function (done) {
                     country = trDom[i].getElementsByTagName("td")[1].textContent;
                 }
 
-                country = country.replace("&nbsp;", "");
-                country = country.replace("&nbsp;", "");
+                country = country.replace(new RegExp("&nbsp;", "g"), "");
                 log.info(`${city},${country}`);
                 saveToFile(`${city},${country}\n`);
                 counter++;

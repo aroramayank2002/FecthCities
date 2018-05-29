@@ -1,78 +1,76 @@
 A Coruña,Spain
-Aachen,Germany
-Aalborg,Denmark
 Aarhus,Denmark
 Aba,Nigeria
-Abadan,Iran
+Aachen,Germany
 Abaetetuba,Brazil
+Aalborg,Denmark
 Abakan,Russia
-Abbotabad,Pakistan
 Abbotsford,Canada
-Abeokuta,Nigeria
 Aberdeen,United Kingdom
 Abha,Saudi Arabia
 Abidjan,Ivory Coast
-Abilene,United States
 Abiko,Japan
-Abohar,India
+Abeokuta,Nigeria
+Abilene,United States
+Abadan,Iran
 Abu Dhabi,United Arab Emirates
 Abuja,Nigeria
 Acapulco,Mexico
 Acarigua,Venezuela
 Accra,Ghana
+Abbotabad,Pakistan
 Acheng,China
 Achinsk,Russia
 Adana,Turkey
 Adapazarı,Turkey
 Addis Ababa,Ethiopia
 Adelaide,Australia
-Aden,Yemen
 Adhamiyah,Iraq
 Adıyaman,Turkey
 Ado-Ekiti,Nigeria
-Adoni,India
+Aden,Yemen
 Afyon,Turkey
 Agadir,Morocco
 Agartala,India
 Ageo,Japan
-Agra,India
-Aguascalientes,Mexico
+Adoni,India
+Abohar,India
 Ahmedabad,India
 Ahmednagar,India
-Ahome,Mexico
+Aguascalientes,Mexico
 Ahuachapán,El Salvador
-Ahvaz,Iran
 Ain Beida,Algeria
-Aizuwakamatsu,Japan
+Ahome,Mexico
 Aizawl,India
 Aix-en-Provence,France
-Ajmer,India
+Aizuwakamatsu,Japan
+Agra,India
 Ajax,Canada
-Akashi,Japan
+Ahvaz,Iran
+Ajmer,India
 Akishima,Japan
 Akita,Japan
 Akola,India
 Akron,United States
 Aksaray,Turkey
 Aktau,Kazakhstan
-Akesu,China
 Aktobe,Kazakhstan
 Al 'Arish,Egypt
 Al-Hasakah,Syria
+Akashi,Japan
 Alagoinhas,Brazil
-Al Ain,United Arab Emirates
-Al Minya,Egypt
 Alajuela,Costa Rica
-Albuquerque,United States
+Al Ain,United Arab Emirates
+Alanya,Turkey
 Albacete,Spain
-Albury-Wodonga,Australia
-Alchevsk,Ukraine
+Albuquerque,United States
+Al Minya,Egypt
 Alcalá de Henares,Spain
-Aleppo,Syria
+Alchevsk,Ukraine
 Alcorcón,Spain
+Aleppo,Syria
 Alexandra,South Africa
 Alexandria,United States
-Alanya,Turkey
 Alexandria,Egypt
 Al-Fashir,Sudan
 Algeciras,Spain
@@ -80,15 +78,15 @@ Algiers,Algeria
 Alicante,Spain
 Aligarh,India
 Alipurduar,India
-Allahabad,India
+Albury-Wodonga,Australia
 Allappuzha,India
 Allentown,United States
-Almada,Portugal
+Allahabad,India
 Almaty,Kazakhstan
 Almere,Netherlands
 Almería,Spain
-Alor Setar,Malaysia
 Almetyevsk,Russia
+Alor Setar,Malaysia
 Al Qadarif,Sudan
 Altay City,China
 Al-Ubayyid,Sudan
@@ -116,17 +114,17 @@ Anand,India
 Ananindeua,Brazil
 Anápolis,Brazil
 Anchorage,United States
-Ancona,Italy
 Anda,China
 Andijan,Uzbekistan
 Andimeshk,Iran
+Ancona,Italy
 Andong,South Korea
 Andria,Italy
 Angarsk,Russia
 Angeles City,Philippines
 Angers,France
+Almada,Portugal
 Angren,Uzbekistan
-Anjō,Japan
 Ankang,China
 Ankara,Turkey
 Anlu,China
@@ -148,7 +146,7 @@ Aomori,Japan
 Aparecida de Goiânia,Brazil
 Apeldoorn,Netherlands
 Apopa,El Salvador
-Apucarana,Brazil
+Anjō,Japan
 Raqqa,Syria
 Aracaju,Brazil
 Araçatuba,Brazil
@@ -167,6 +165,7 @@ Arecibo,Puerto Rico
 Arequipa,Peru
 Arezzo,Italy
 Argenteuil,France
+Apucarana,Brazil
 Arica,Chile
 Arkhangelsk,Russia
 Arlington, Texas,United States
@@ -185,6 +184,7 @@ Ashdod,Israel
 Ashikaga,Japan
 Asmara,Eritrea
 Astana,Kazakhstan
+Akesu,China
 Astrakhan,Russia
 Asunción,Paraguay
 Aswan,Egypt
@@ -211,12 +211,12 @@ Aydın,Turkey
 Bab Ezzouar,Algeria
 Babruysk,Belarus
 Bacău,Romania
-Babol,Iran
 Bacolod,Philippines
 Bacoor,Philippines
 Badajoz,Spain
 Badalona,Spain
 Bafoussam,Cameroon
+Babol,Iran
 Bagé,Brazil
 Baghdad,Iraq
 Bago City,Philippines
@@ -242,8 +242,8 @@ Baleshwar,India
 Balıkesir,Turkey
 Balikpapan,Indonesia
 Baliuag,Philippines
-Bally,India
 ballarat,Australia
+Bally,India
 Bălți,Moldova
 Baltimore,United States
 Balurghat,India
@@ -291,7 +291,7 @@ Barrie,Canada
 Barueri,Brazil
 Baruta,Venezuela
 Barysaw,Belarus
-Basel,&nbsp;Switzerland
+Basel,Switzerland
 Basirhat,India
 Basra,Iraq
 Bat Yam,Israel
@@ -340,8 +340,8 @@ Bellary,India
 Bellevue,United States
 Bello,Colombia
 Belo Horizonte,Brazil
-Bengbu,China
 Benghazi,Libya
+Bengbu,China
 Benguela,Angola
 Beni Mellal,Morocco
 Benito Juárez,Mexico
@@ -357,7 +357,7 @@ Bergisch Gladbach,Germany
 Berhampur,India
 Berkeley,United States
 Berlin,Germany
-Bern,&nbsp;Switzerland
+Bern,Switzerland
 Besançon,France
 Betim,Brazil
 Bettiah,India
@@ -365,7 +365,7 @@ Bhadravati,India
 Bhagalpur,India
 Bhalwal,Pakistan
 Bharatpur,India
-Bharatpur,&nbsp;&nbsp;Nepal
+Bharatpur,Nepal
 Bharuch,India
 Bhatpara,India
 Bhavnagar,India
@@ -393,7 +393,7 @@ Billings,United States
 Biñan,Philippines
 Binangonan,Philippines
 Binzhou,China
-Biratnagar,&nbsp;&nbsp;Nepal
+Biratnagar,Nepal
 Birjand,Iran
 Birmingham,United Kingdom
 Birmingham,United States
@@ -438,8 +438,8 @@ Botoșani,Romania
 Botou,China
 Botshabelo,South Africa
 Bottrop,Germany
-Bou Saâda,Algeria
 Botucatu,Brazil
+Bou Saâda,Algeria
 Bouaké,Ivory Coast
 Boulder,United States
 Boulogne-Billancourt,France
@@ -471,12 +471,12 @@ Brno,Czech Republic
 Brownsville,United States
 Bruges,Belgium
 Brussels,Belgium
-Bucaramanga,Colombia
-Bucharest,Romania
-Bucheon,South Korea
 Bryansk,Russia
+Bucaramanga,Colombia
+Bucheon,South Korea
 Budapest,Hungary
 Budaun,India
+Bucharest,Romania
 Buenaventura,Colombia
 Buenos Aires,Argentina
 Buffalo,United States
@@ -504,16 +504,16 @@ Butuan,Philippines
 Buzău,Romania
 Bydgoszcz,Poland
 Bytom,Poland
-Butwal,&nbsp;&nbsp;Nepal
+Butwal,Nepal
 Cabanatuan City,Philippines
 Cabo de Santo Agostinho,Brazil
+Cabimas,Venezuela
+Cabo Frio,Brazil
 Cabuyao City,Philippines
 Cachoeirinha,Brazil
 Cachoeiro de Itapemirim,Brazil
-Cabo Frio,Brazil
-Cabimas,Venezuela
-Cádiz,Spain
 Cadiz City,Philippines
+Cádiz,Spain
 Caen,France
 Cagayan de Oro,Philippines
 Cagliari,Italy
@@ -540,8 +540,8 @@ Cambridge,United Kingdom
 Campeche,Mexico
 Cẩm Phả,Vietnam
 Campina Grande,Brazil
-Campo Grande,Brazil
 Campinas,Brazil
+Campo Grande,Brazil
 Campos dos Goytacazes,Brazil
 Canberra,Australia
 Candelaria,Philippines
@@ -567,8 +567,8 @@ Cartago,Costa Rica
 Cartago,Colombia
 Caruaru,Brazil
 Carúpano,Venezuela
-Cascavel,Brazil
 Casablanca,Morocco
+Cascavel,Brazil
 Castanhal,Brazil
 Castellón de la Plana,Spain
 Catanduva,Brazil
@@ -604,11 +604,11 @@ Charikar,Afghanistan
 Charleroi,Belgium
 Charlotte,United States
 Chatham-Kent,Canada
-Cheboksary,Russia
 Chattanooga,United States
+Cheboksary,Russia
+Chelyabinsk,Russia
 Chemnitz,Germany
 Chengde,China
-Chelyabinsk,Russia
 Chengdu,China
 Chengzhou,China
 Chennai,India
@@ -648,8 +648,8 @@ Chitradurga,India
 Chittagong,Bangladesh
 Chittoor,India
 Chitungwiza,Zimbabwe
-Chlef,Algeria
 Chizhou,China
+Chlef,Algeria
 Chōfu,Japan
 Choloma,Honduras
 Choluteca,Honduras
@@ -660,8 +660,8 @@ Chorzów,Poland
 Christchurch,New Zealand
 Chula Vista,United States
 Chuncheon,South Korea
-Chuxiong City,China
 Chungju,South Korea
+Chuxiong City,China
 Chuzhou,China
 Cienfuegos,Cuba
 Cincinnati,United States
@@ -687,20 +687,20 @@ Cleveland,United States
 Cluj-Napoca,Romania
 Coacalco,Mexico
 Coatzacoalcos,Mexico
-Coimbatore,India
 Cochabamba,Bolivia
-Colatina,Brazil
+Codó,Brazil
+Coimbatore,India
 Coimbra,Portugal
+Colatina,Brazil
 Colchester,United Kingdom
 Colima,Mexico
 Cologne,Germany
 Colombo,Brazil
 Colombo,Sri Lanka
-Codó,Brazil
+Colón,Panama
 Colorado Springs,United States
 Columbia, Missouri,United States
 Columbia, South Carolina,United States
-Colón,Panama
 Columbus, Georgia,United States
 Columbus, Ohio,United States
 Comilla,Bangladesh
@@ -713,8 +713,8 @@ Constanţa,Romania
 Constantine,Algeria
 Contagem,Brazil
 Copenhagen,Denmark
-Coquimbo,Chile
 Copiapó,Chile
+Coquimbo,Chile
 Coquitlam,Canada
 Coral Springs,United States
 Corby,United Kingdom
@@ -754,9 +754,9 @@ Cusco,Peru
 Cuttack,India
 Częstochowa,Poland
 Da Nang,Vietnam
-Dabgram,India
 Dąbrowa Górnicza,Poland
 Dadu,Pakistan
+Dabgram,India
 Daegu,South Korea
 Daejeon,South Korea
 Dagupan,Philippines
@@ -880,26 +880,26 @@ Düsseldorf,Germany
 Dzerzhinsk,Russia
 Davenport,United States
 Eastbourne,United Kingdom
-Ecatepec,Mexico
-Ebina,Japan
 Ebetsu,Japan
-Edéa,Cameroon
+Ebina,Japan
+Ecatepec,Mexico
 Ede,Netherlands
-Edirne,Turkey
+Ede,Nigeria
 Edinburgh,United Kingdom
+Edirne,Turkey
+Edéa,Cameroon
 Edmonton,Canada
+Eilat,Israel
 Eindhoven,Netherlands
 Ekibastuz,Kazakhstan
-Ede,Nigeria
-Eilat,Israel
+El Aaiún,Western Sahara
 El Alto,Bolivia
 El Eulma,Algeria
-El Khroub,Algeria
-El Aaiún,Western Sahara
 El Jadida,Morocco
+El Khroub,Algeria
+El Oued,Algeria
 El Monte,United States
 El Paso,United States
-El Oued,Algeria
 El Progreso,Honduras
 Elazığ,Turkey
 Elbasan,Albania
@@ -914,21 +914,21 @@ El-Mahalla El-Kubra,Egypt
 Eluru,India
 English Bazar,India
 Enschede,Netherlands
-Enshi,China
 Ensenada,Mexico
+Enshi,China
+Enugu,Nigeria
 Envigado,Colombia
 Erbil,Iraq
 Erfurt,Germany
 Erie,United States
-Enugu,Nigeria
 Erlangen,Germany
-Erzurum,Turkey
-Erzincan,Turkey
-Escondido,United States
-Esfahan,Iran
-Esenler,Turkey
-Eskişehir,Turkey
 Erode,India
+Erzincan,Turkey
+Erzurum,Turkey
+Escondido,United States
+Esenler,Turkey
+Esfahan,Iran
+Eskişehir,Turkey
 Esmeraldas,Ecuador
 Espoo,Finland
 Essen,Germany
@@ -939,26 +939,26 @@ Evansville,United States
 Exeter,United Kingdom
 Ezhou,China
 Faisalabad,Pakistan
+Faridabad,India
 Faizabad,India
 Farrukhabad,India
 Fatehpur,India
 Fayetteville,United States
 Fayyum,Egypt
-Faridabad,India
 Feira de Santana,Brazil
+Fengcheng,China
+Fenghua,China
 Fergana,Uzbekistan
 Ferrara,Italy
-Fengcheng,China
 Ferraz de Vasconcelos,Brazil
-Fenghua,China
 Fes,Morocco
 Firozabad,India
+Flint,United States
 Florence,Italy
 Florencia,Colombia
 Florianópolis,Brazil
 Floridablanca,Colombia
 Focşani,Romania
-Flint,United States
 Foggia,Italy
 Fontana,United States
 Forlì,Italy
@@ -1006,33 +1006,34 @@ Fuzhou, Jiangxi,China
 Fürth,Germany
 Gabès,Tunisia
 Gaborone,Botswana
+Gandhidham,India
+Gangakhed,India
+Gandhinagar,India
+Ganganagar,India
 Gadag-Betgeri,India
 Galați,Romania
-Gandhidham,India
-Gandhinagar,India
-Gangakhed,India
-Ganganagar,India
 Gangneung,South Korea
-Ganzhou,China
 Gəncə,Azerbaijan
-Garden Grove,United States
+Ganzhou,China
+Gaocheng,China
+Garanhuns,Brazil
 Garland,United States
+Garden Grove,United States
 Garoua,Cameroon
 Gary,United States
-Garanhuns,Brazil
+Gatineau,Canada
 Gaya,India
-Gaziantep,Turkey
 Gaza City,Palestine
+Gaziantep,Turkey
 Gdańsk,Poland
 Gdynia,Poland
 Gebze,Turkey
 Geelong,Australia
-Gaocheng,China
 Gejiu,China
 Geleen-Sittard,Netherlands
 Gelsenkirchen,Germany
 General Santos City,Philippines
-Geneva,&nbsp;Switzerland
+Geneva,Switzerland
 Genova,Italy
 George Town,Malaysia
 Georgetown,Guyana
@@ -1042,23 +1043,22 @@ Getafe,Spain
 Ghardaïa,Algeria
 Ghaziabad,India
 Ghazni,Afghanistan
-Gifu,Japan
 Ghent,Belgium
+Gifu,Japan
 Gijón,Spain
 Gilbert,United States
 Gingoog City,Philippines
 Girardot,Colombia
 Giresun,Turkey
 Giza,Egypt
-Gatineau,Canada
 Glasgow,United Kingdom
 Glazov,Russia
 Glendale, Arizona,United States
 Glendale, California,United States
+Gliwice,Poland
 Gloucester,United Kingdom
 Godhra,India
 Godoy Cruz,Ecuador
-Gliwice,Poland
 Goiânia,Brazil
 Gojra,India
 Gold Coast,Australia
@@ -1131,14 +1131,14 @@ Győr,Hungary
 Gyumri,Armenia
 Ha Long,Vietnam
 Haarlem,Netherlands
-Hachinohe.,Japan
 Habikino,Japan
-Hadano,Japan
-Hachiōji,Japan
-Hafizabad,Pakistan
-Haeju,North Korea
-Hagen,Germany
 Habra,India
+Hachinohe.,Japan
+Hachiōji,Japan
+Hadano,Japan
+Haeju,North Korea
+Hafizabad,Pakistan
+Hagen,Germany
 Haicheng,China
 Haifa,Israel
 Haikou,China
@@ -1146,26 +1146,26 @@ Hailun,China
 Haining City,China
 Haiphong,Vietnam
 Hakodate,Japan
-Haldia,India
-Haldwani-cum-Kathgodam,India
-Halifax,Canada
 Hakone,Japan
+Haldwani-cum-Kathgodam,India
+Haldia,India
+Halifax,Canada
 Halle,Germany
+Hamadan,Iran
 Hamamatsu,Japan
 Hamburg,Germany
-Hama,Syria
-Hamadan,Iran
 Hamhung,North Korea
+Hami City,China
 Hamilton,New Zealand
 Hamilton,Canada
+Hamm,Germany
 Hanam,South Korea
 Hancheng,China
 Handa,Japan
-Hami City,China
-Hamm,Germany
+Hama,Syria
+Handan,China
 Hangzhou,China
 Hanoi,Vietnam
-Handan,China
 Hanover,Germany
 Hanzhong,China
 Haora,India
@@ -1181,33 +1181,30 @@ Hat Yai,Thailand
 Havana,Cuba
 Hayward,United States
 Hebi,China
-Hebron,Palestine
 Hechi,China
+Hebron,Palestine
 Heerlen-Kerkrade,Netherlands
-Hefei,China
-Hegang,China
 Heidelberg,Germany
 Heihe,China
 Heilbronn,Germany
 Helsingborg,Sweden
 Helsinki,Finland
+Hefei,China
+Hegang,China
 Henderson,United States
-Hengshui,China
 Hengyang,China
-Heraklion,Greece
 Herat,Afghanistan
 Hermosillo,Mexico
 Herne,Germany
-Heshan,China
-Heyuan,China
+Heraklion,Greece
 Hetian,China
-Hialeah,United States
+Heyuan,China
 Heze,China
+Hialeah,United States
 Higashihiroshima,Japan
+Heshan,China
 Higashikurume,Japan
 Higashimurayama,Japan
-Higashiōsaka,Japan
-Hikone,Japan
 Hildesheim,Germany
 Hilla,Iraq
 Himamaylan City,Philippines
@@ -1257,8 +1254,8 @@ Huangyan,China
 Huánuco,Peru
 Huaraz,Peru
 Huaying,China
+Hengshui,China
 Hubli-Dharwad,India
-Hudaida,Yemen
 Huddersfield,United Kingdom
 Huế,Vietnam
 Huelva,Spain
@@ -1269,22 +1266,25 @@ Huludao,China
 Hulunbuir,China
 Hunchun,China
 Huntington Beach,United States
+Hudaida,Yemen
 Huntsville,United States
 Huozhou,China
 Huzhou,China
 Hyderabad,India
 Hyderabad,Pakistan
 Hyesan,North Korea
+Hikone,Japan
+Higashiōsaka,Japan
 Iaşi,Romania
 Ibadan,Nigeria
-Ibagué,Colombia
 Ibaraki,Japan
+Ibagué,Colombia
 Ibarra,Ecuador
 Ibirité,Brazil
 Ica,Peru
-Ichikawa,Japan
-Ichihara,Japan
 Ichalakaranji,India
+Ichihara,Japan
+Ichikawa,Japan
 Ichinomiya,Japan
 Ife,Nigeria
 Iida,Japan
@@ -1301,9 +1301,9 @@ Iligan,Philippines
 Iloilo City,Philippines
 Ilopango,El Salvador
 Ilorin,Nigeria
-Imabari,Japan
 Imbaba,Egypt
 Imperatriz,Brazil
+Imabari,Japan
 Imphal,India
 Inazawa,Japan
 Incheon,South Korea
@@ -1360,13 +1360,12 @@ Izhevsk,Russia
 Izumi,Japan
 Jabalpur,India
 Jaboatao dos Guarapes,Brazil
-Jacksonville,United States
-Jaén,Spain
-Jacobabad,Pakistan
 Jackson,United States
+Jacksonville,United States
+Jacareí,Brazil
+Jaén,Spain
 Jaffna,Sri Lanka
 Jaipur,India
-Jacareí,Brazil
 Jakarta,Indonesia
 Jalalabad,Afghanistan
 Jalandhar,India
@@ -1375,11 +1374,12 @@ Jalpaiguri,India
 Jalna,India
 Jamalpur,Bangladesh
 Jambi,Indonesia
-Jamnagar,India
 Jamshedpur,India
+Jamnagar,India
 Jaraguá do Sul,Brazil
 Jaranwala,Pakistan
 Jastrzębie Zdrój,Poland
+Jacobabad,Pakistan
 Jaú,Brazil
 Jaunpur,India
 Jayapura,Indonesia
@@ -1388,35 +1388,35 @@ Jena,Germany
 Jendouba,Tunisia
 Jeongju,South Korea
 Jeonju,South Korea
-Jequié,Brazil
 Jerez de la Frontera,Spain
+Jequié,Brazil
 Jersey City,United States
-Jhansi,India
 Jerusalem,Israel
-Jhang,Pakistan
-Jiagedaqi,China
 Jessore,Bangladesh
+Jhang,Pakistan
+Jhelum,Pakistan
 Jiamusi,China
 Ji'an,China
-Jiangmen,China
+Jhansi,India
+Jiagedaqi,China
 Ji'an,China
 Jiangshan,China
 Jiangyou,China
-Jhelum,Pakistan
-Jiaojiang,China
+Jiangmen,China
 Jiaohe,China
+Jiaojiang,China
 Jiaozhou City,China
-Jiaozuo,China
-Jiayuguan,China
 Jiaxing,China
 Jiangyin,China
+Jiayuguan,China
 Jieshou,China
+Jijel,Algeria
 Jimma,Ethiopia
 Jinan,China
-Jijel,Algeria
+Jiaozuo,China
 Jinchang,China
-Jingdezhen,China
 Jincheng,China
+Jingdezhen,China
 Jimo,China
 Jingmen,China
 Jingzhou,China
@@ -1452,15 +1452,15 @@ Junagadh,India
 Jundiaí,Brazil
 Jyväskylä,Finland
 Kabankalan,Philippines
-Kabul,Afghanistan
 Kadhimiya,Iraq
-Kaduna,Nigeria
-Kabwe,Zambia
+Kabul,Afghanistan
 Kadoma,Japan
+Kaduna,Nigeria
 Kaesong,North Korea
-Kafr Dawar,Egypt
 Kagoshima,Japan
+Kafr Dawar,Egypt
 Kahramanmaraş,Turkey
+Kabwe,Zambia
 Kaifeng,China
 Kaili,China
 Kairouan,Tunisia
@@ -1511,10 +1511,10 @@ Karbala,Iraq
 Karimnagar,India
 Kariya,Japan
 Karlsruhe,Germany
-Kashgar,China
+Karnal,India
 Karur,India
 Kashan,Iran
-Karnal,India
+Kashgar,China
 Kashihara,Japan
 Kashipur,India
 Kashiwa,Japan
@@ -1525,7 +1525,7 @@ Kasugai,Japan
 Kasukabe,Japan
 Kasur,Pakistan
 Kathlehong,South Africa
-Kathmandu,&nbsp;&nbsp;Nepal
+Kathmandu,Nepal
 Katihar,India
 Katowice,Poland
 Kaunas,Lithuania
@@ -1560,12 +1560,12 @@ Khasavyurt,Russia
 Khayelitsha,South Africa
 Khenchela,Algeria
 Kherson,Ukraine
-Khmelnytskyi,Ukraine
 Khimki,Russia
+Khmelnytskyi,Ukraine
 Khomeini Shahr,Iran
 Khon Kaen,Thailand
-Khoramshahr,Iran
 Khoramabad,Iran
+Khoramshahr,Iran
 Khouribga,Morocco
 Khoy,Iran
 Khulna,Bangladesh
@@ -1637,43 +1637,43 @@ Koszalin,Poland
 Kota Bharu,Malaysia
 Kota Kinabalu,Malaysia
 Kota,India
-Kottayam,India
 Kothagudem,India
-Kozhikode,India
-Kraków,Poland
-Kragujevac,Serbia
-Kraljevo,Serbia
+Kottayam,India
 Kovrov,Russia
+Kozhikode,India
+Kragujevac,Serbia
+Kraków,Poland
+Kraljevo,Serbia
 Kramatorsk,Ukraine
-Krasnyi Luch,Ukraine
-Krasnoyarsk,Russia
 Krasnodar,Russia
-Krefeld,Germany
+Krasnoyarsk,Russia
+Krasnyi Luch,Ukraine
 Kremenchuk,Ukraine
+Krefeld,Germany
 Krishnanagar,India
 Kropyvnytskyi,Ukraine
 Kruševac,Serbia
 Kryvyi Rih,Ukraine
 Kuala Lumpur,Malaysia
 Kuala Terengganu,Malaysia
-Kuantan,Malaysia
 Kuching,Malaysia
-Kulai,Malaysia
 Kumagaya,Japan
 Kumamoto,Japan
-Kumasi,Ghana
 Kumbakonam,India
+Kumasi,Ghana
 Kunduz,Afghanistan
-Kunming,China
 Kunshan,China
+Kunming,China
 Kuopio,Finland
+Kulai,Malaysia
 Kurashiki,Japan
 Kure,Japan
-Kurgan,Russia
 Kurnool,India
 Kursk,Russia
 Kurume,Japan
+Kuantan,Malaysia
 Kusatsu,Japan
+Kurgan,Russia
 Kushiro,Japan
 Kut,Iraq
 Kutaisi,Georgia
@@ -1688,22 +1688,24 @@ Kyzyl,Russia
 Kyzylorda,Kazakhstan
 La Ceiba,Honduras
 Las Palmas de Gran Canaria,Spain
-La Paz,Mexico
 La Paz,Bolivia
+La Paz,Mexico
+La Plata,Argentina
 La Rioja,Argentina
+La Serena,Chile
 La Victoria,Venezuela
+Lages,Brazil
 Lafayette,United States
 Laghouat,Algeria
 Lagos,Nigeria
-La Serena,Chile
 Lahore,Pakistan
+Lahti,Finland
 Laiwu,China
 Laiyang,China
 Laizhou,China
 Lakewood,United States
 Lalitpur,India
 Lancaster,United States
-La Plata,Argentina
 Langfang,China
 Lansing,United States
 Lanús,Argentina
@@ -1722,14 +1724,14 @@ Latina,Italy
 Latur,India
 Launceston,Australia
 Lauro de Freitas,Brazil
-Lausanne,&nbsp;Switzerland
+Lausanne,Switzerland
 Laval,Canada
 Le Havre,France
 Le Mans,France
 Leeds,United Kingdom
 Leganés,Spain
 Legazpi City,Philippines
-Lages,Brazil
+Legnica,Poland
 Leicester,United Kingdom
 Leiden,Netherlands
 Leipzig,Germany
@@ -1738,19 +1740,19 @@ Leling,China
 Lengshuijiang,China
 Lengshuitan,China
 Leninsk-Kuznetsky,Russia
-León,Mexico
 Lens,France
+León,Mexico
 León,Spain
-Leshan,China
 León,Nicaragua
+Leshan,China
 Leskovac,Serbia
 Leverkusen,Germany
 Lexington,United States
 Lhasa,China
 Lianyuan,China
 Lianyungang,China
-Liaoyang,China
 Liaocheng,China
+Liaoyang,China
 Liaoyuan,China
 Libreville,Gabon
 Lichuan,China
@@ -1758,20 +1760,20 @@ Lida,Belarus
 Liège,Belgium
 Ligao City,Philippines
 Likasi,Democratic Republic of the Congo
+Liling,China
 Lille,France
 Lilongwe,Malawi
 Lima,Peru
-Liling,China
 Limassol,Cyprus
 Limeira,Brazil
 Limerick,Ireland
-Lincoln,United States
 Limoges,France
+Lincoln,United States
 Linfen,China
 Linhai,China
 Linhares,Brazil
-Linqing,China
 Linköping,Sweden
+Linqing,China
 Linxia,China
 Linyi,China
 Linz,Austria
@@ -1782,15 +1784,16 @@ Lishui,China
 Little Rock,United States
 Liupanshui,China
 Liuzhou,China
+Liverpool,United Kingdom
 Livonia,United States
 Livorno,Italy
 Ljubljana,Slovenia
 Lleida,Spain
 Lobito,Angola
-Liverpool,United Kingdom
+Logroño,Spain
 Loja,Ecuador
 Lomas de Zamora,Argentina
-Logroño,Spain
+Lomé,Togo
 London,United Kingdom
 London,Canada
 Londrina,Brazil
@@ -1800,15 +1803,14 @@ Longkou,China
 Longueuil,Canada
 Longxuyen,Vietnam
 Longyan,China
-Lomé,Togo
 Los Angeles,United States
+Los Ángeles,Chile
 Los Mochis,Mexico
 Los Teques,Venezuela
 Loudi,China
 Louisville,United States
 Lowell,United States
 Lu'an,China
-Lahti,Finland
 Luanda,Angola
 Luanshya,Zambia
 Lubbock,United States
@@ -1816,7 +1818,7 @@ Lübeck,Germany
 Lublin,Poland
 Lubumbashi,Democratic Republic of the Congo
 Lucena City,Philippines
-Lucerne,&nbsp;Switzerland
+Lucerne,Switzerland
 Lucknow,India
 Ludhiana,India
 Ludwigshafen am Rhein,Germany
@@ -1835,16 +1837,14 @@ Lviv,Ukraine
 Lyon,France
 Lysychansk,Ukraine
 Lyubertsy,Russia
-Los Ángeles,Chile
-Legnica,Poland
 Ma'anshan,China
 Maastricht,Netherlands
-Macaé,Brazil
 Maasin,Philippines
-Macapá,Brazil
 Mabalacat,Philippines
-Maceió,Brazil
+Macaé,Brazil
+Macapá,Brazil
 Macau,Macau
+Maceió,Brazil
 Machakos,Kenya
 Machala,Ecuador
 Macheng,China
@@ -1874,11 +1874,11 @@ Malabo,Equatorial Guinea
 Málaga,Spain
 Malang,Indonesia
 Malappuram,India
+Mehsana,India
 Malasiqui, Pangasinan,Philippines
+Malatya,Turkey
 Malaybalay,Philippines
 Malayer,Iran
-Malatya,Turkey
-Mehsana,India
 Malegaon,India
 Malita, Davao del Sur,Philippines
 Malmö,Sweden
@@ -1896,9 +1896,9 @@ Mandaluyong,Philippines
 Mandaue,Philippines
 Mandya,India
 Mangalore,India
-Manila,Philippines
 Mangaung,South Africa
 Mangora,Pakistan
+Manila,Philippines
 Manisa,Turkey
 Manizales,Colombia
 Mannheim,Germany
@@ -2085,22 +2085,20 @@ Muzaffarpur,India
 Mülheim an der Ruhr,Germany
 Münster,Germany
 Mwanza,Tanzania
-Mykolaiv,Ukraine
 Mymensingh,Bangladesh
 Mysore,India
+Mykolaiv,Ukraine
 Mytho,Vietnam
 Mytishchi,Russia
 Nabadwip,India
 Naberezhnye Chelny,Russia
-Nadiad,India
 Naga,Philippines
 Nagano,Japan
 Nagaoka,Japan
 Nagareyama,Japan
 Nagasaki,Japan
-Nagercoil,India
 Nagoya,Japan
-Nagpur,India
+Nagercoil,India
 Naha,Japan
 Naihati,India
 Nairobi,Kenya
@@ -2120,7 +2118,7 @@ Nampula,Mozambique
 Namur,Belgium
 Nanchang,China
 Nanchong,China
-Nancy,France
+Nagpur,India
 Nanded,India
 Nandyal,India
 Nanjing,China
@@ -2128,7 +2126,7 @@ Nanning,China
 Nanping,China
 Nantes,France
 Nantong,China
-Nanyang,China
+Nancy,France
 Naperville,United States
 Napier-Hastings,New Zealand
 Naples,Italy
@@ -2137,6 +2135,8 @@ Narashino,Japan
 Narayanganj,Bangladesh
 Nasiriyah,Iraq
 Nashik,India
+Nadiad,India
+Nanyang,China
 Nashville,United States
 Nassau,Bahamas
 Nasugbu,Philippines
@@ -2145,18 +2145,16 @@ Naucalpan,Mexico
 Navapolatsk,Belarus
 Navoiy,Uzbekistan
 Navotas,Philippines
-Navsari,India
 Nawabganj,Bangladesh
 Nawabshah,Pakistan
-Nazilli,Turkey
-N'Djamena,Chad
+Navsari,India
 Ndola,Zambia
 Neftekamsk,Russia
 Nefteyugansk,Russia
 Neijiang,China
 Neiva,Colombia
-Nellore,India
 Netanya,Israel
+Nellore,India
 Neuquén,Argentina
 Neuss,Germany
 Nevinnomyssk,Russia
@@ -2176,8 +2174,10 @@ Neyveli,India
 Nha Trang,Vietnam
 Niamey,Niger
 Nice,France
+Nazilli,Turkey
 Nicosia,Cyprus
 Niigata,Japan
+N'Djamena,Chad
 Niihama,Japan
 Niiza,Japan
 Nijmegen,Netherlands
@@ -2198,14 +2198,14 @@ Nizhny Tagil,Russia
 Nobeoka,Japan
 Noda,Japan
 Nogales,Mexico
-Nonthaburi,Thailand
 Noginsk,Russia
-Norilsk,Russia
+Nonthaburi,Thailand
 Norman,United States
+Norrköping,Sweden
 North Las Vegas,United States
 Northampton,United Kingdom
+Norilsk,Russia
 Norwalk,United States
-Norrköping,Sweden
 Norwich,United Kingdom
 Norzagaray, Bulacan,Philippines
 Nossa Senhora do Socorro,Brazil
@@ -2217,6 +2217,7 @@ Novara,Italy
 Novi Sad,Serbia
 Novo Hamburgo,Brazil
 Novocheboksarsk,Russia
+Novocherkassk,Russia
 Novokuybyshevsk,Russia
 Novokuznetsk,Russia
 Novomoskovsk,Russia
@@ -2232,13 +2233,11 @@ Numazu,Japan
 Nuremberg,Germany
 Nyala,Sudan
 Nyíregyháza,Hungary
-Novocherkassk,Russia
 Oakland,United States
-Oakville,Canada
 Oaxaca de Juárez,Mexico
 Oberhausen,Germany
 Obihiro,Japan
-Obninsk,Russia
+Oakville,Canada
 Oceanside,United States
 Odawara,Japan
 Odense,Denmark
@@ -2246,12 +2245,13 @@ Odesa,Ukraine
 Odintsovo,Russia
 Offenbach am Main,Germany
 Ōgaki,Japan
-Ogbomosho,Nigeria
 Ōita,Japan
-Okara,Pakistan
+Ogbomosho,Nigeria
+Obninsk,Russia
 Okayama,Japan
-Okazaki,Japan
+Okara,Pakistan
 Okene,Nigeria
+Okazaki,Japan
 Okinawa,Japan
 Oklahoma City,United States
 Oktyabrsky,Russia
@@ -2294,8 +2294,8 @@ Osh,Kyrgyzstan
 Oshawa,Canada
 Oshogbo,Nigeria
 Osijek,Croatia
-Osmaniye,Turkey
 Oslo,Norway
+Osmaniye,Turkey
 Osnabrück,Germany
 Osorno,Chile
 Ostrava,Czech Republic
@@ -2317,28 +2317,28 @@ Oyama,Japan
 Oyo,Nigeria
 Ozamiz,Philippines
 Paarl,South Africa
-Padang,Indonesia
 Pabna,Bangladesh
 Pachuca,Mexico
 Paderborn,Germany
 Padua,Italy
-Pagadian City,Philippines
 Pago Pago, American Samoa,United States
+Pagadian City,Philippines
 Paita,Peru
 Pakalongan,Indonesia
 Pakan Baru,Indonesia
 Pakpattan,Pakistan
-Palakkad,India
 Palangkaraya,Indonesia
+Palakkad,India
+Padang,Indonesia
 Palembang,Indonesia
 Palermo,Italy
-Pali,India
 Palma de Mallorca,Spain
 Palmas,Brazil
 Palmdale, California,United States
+Pali,India
 Palmira,Colombia
-Pamplona,Spain
 Palu,Indonesia
+Pamplona,Spain
 Panabo City,Philippines
 Panama City,Panama
 Pančevo,Serbia
@@ -2493,20 +2493,19 @@ Putian,China
 Puyang,China
 Pyatigorsk,Russia
 Pyongyang,North Korea
+Qamishli,Syria
 Qā’em Shahr,Iran
+Qarchak,Iran
 Qianjiang,China
-Qidong,China
-Qingdao,China
 Qingtongxia,China
-Qingyang,China
+Qazvin,Iran
 Qingyuan,China
 Qingzhou,China
 Qinhuangdao,China
 Qinyang,China
+Qingyang,China
 Qinzhou,China
-Qamishli,Syria
 Qiqihaer,China
-Qom,Iran
 Qitaihe,China
 Quanzhou,China
 Quebec City,Canada
@@ -2514,59 +2513,60 @@ Queimados,Brazil
 Querétaro,Mexico
 Quetta,Pakistan
 Quetzaltenango,Guatemala
+Qom,Iran
 Quevedo,Ecuador
-Quezon City,Philippines
 Qufu,China
-Qarchak,Iran
+Quezon City,Philippines
 Qui Nhon,Vietnam
 Quilmes,Argentina
-Quito,Ecuador
 Quilpué,Chile
-Quzhou,China
+Quito,Ecuador
 Qujing,China
-Qazvin,Iran
+Quzhou,China
+Qingdao,China
+Qidong,China
 Rabat,Morocco
 Rạch Giá,Vietnam
+Radom,Poland
 Raebareli,India
 Rahim Yar Khan,Pakistan
-Radom,Poland
 Raichur,India
-Rajahmundry,India
-Raipur,India
 Raiganj,India
+Raipur,India
+Rajahmundry,India
+Rajapalayam,India
 Rajkot,India
 Rajnandgaon,India
 Rajshahi,Bangladesh
 Raleigh,United States
+Ramadi,Iraq
 Ramagundam,India
-Rajapalayam,India
+Ramat Gan,Israel
 Râmnicu Vâlcea,Romania
 Rampur,India
-Ramadi,Iraq
-Ramat Gan,Israel
 Ranaghat,India
-Rancagua,Chile
-Ranchi,India
 Rancho Cucamonga,United States
-Rasht,Iran
+Rangpur,Bangladesh
+Ranchi,India
+Raniganj,India
 Ratlam,India
 Rourkela,India
 Ravenna,Italy
 Rawalpindi,Pakistan
-Rayong,Thailand
+Rasht,Iran
+Reading,United Kingdom
+Rancagua,Chile
 Recife,Brazil
 Recklinghausen,Germany
 Regensburg,Germany
 Reggio Calabria,Italy
 Regina,Canada
-Reading,United Kingdom
 Rehovot,Israel
 Reims,France
-Rangpur,Bangladesh
 Relizane,Algeria
+Rayong,Thailand
 Remscheid,Germany
 Rennes,France
-Raniganj,India
 Reno,United States
 Renqiu,China
 Resende,Brazil
@@ -2594,8 +2594,8 @@ Riobamba,Ecuador
 Rishon LeZion,Israel
 Riverside,United States
 Rivne,Ukraine
-Riyadh,Saudi Arabia
 Rizhao,China
+Riyadh,Saudi Arabia
 Rochdale,United Kingdom
 Rochester, Minnesota,United States
 Rochester, New York,United States
@@ -2628,8 +2628,8 @@ Rybnik,Poland
 Rzeszów,Poland
 Saanich,Canada
 Saarbrücken,Germany
-Sabadell,Spain
 Sabára,Brazil
+Sabadell,Spain
 Sabzewar,Iran
 Sacramento, California,United States
 Sadiqabad,Pakistan
@@ -2731,11 +2731,11 @@ Santa Clarita, California,United States
 Santa Coloma de Gramanet,Spain
 Santa Cruz de la Sierra,Bolivia
 Santa Cruz de Tenerife,Spain
-Santa Cruz do Sul,Brazil
 Santa Cruz, Laguna,Philippines
 Santa Fe de Bogotá,Colombia
-Santa Fe,Argentina
+Santa Cruz do Sul,Brazil
 Santa Luzia, Minas Gerais,Brazil
+Santa Fe,Argentina
 Santa Maria, California,United States
 Santa Maria, Bulacan,Philippines
 Santa Marta,Colombia
@@ -2888,8 +2888,8 @@ Singapore,Singapore
 Singkawang,Indonesia
 Sinuiji,North Korea
 Sioux Falls, South Dakota,United States
-Siping,China
 Sirjan,Iran
+Siping,China
 Sirsa,India
 Sitapur,India
 Sittwe,Myanmar
@@ -2941,10 +2941,10 @@ St Louis, Missouri,United States
 St Paul, Minnesota,United States
 St Petersburg, Florida,United States
 St. Catharines,Canada
-St. John's,Canada
-Stakhanov,Ukraine
 Stamford, Connecticut,United States
 Stara Zagora,Bulgaria
+St. John's,Canada
+Stakhanov,Ukraine
 Starsy Oskol,Russia
 Stavanger,Norway
 Stavropol,Russia
@@ -2981,41 +2981,41 @@ Sungai Petani,Malaysia
 Sunnyvale, California,United States
 Sunshine Coast,Australia
 Suqian,China
-Surakarta,Indonesia
 Surabaya,Indonesia
+Surakarta,Indonesia
 Surat Thani,Thailand
+Surat,India
 Surgut,Russia
 Surigao City,Philippines
-Suzano,Brazil
 Surrey,Canada
+Suzano,Brazil
 Sutton Coldfield,United Kingdom
 Suva, Fiji,Fiji
+Suwon,South Korea
 Suzhou, Anhui,China
 Suzhou, Jiangsu,China
 Suzuka,Japan
 Swansea,United Kingdom
 Swindon,United Kingdom
 Sydney,Australia
-Surat,India
-Syracuse,Italy
 Syktyvkar,Russia
+Syracuse,Italy
 Syracuse, New York,United States
 Syzran,Russia
-Suwon,South Korea
-Szeged,Hungary
 Szczecin,Poland
+Szeged,Hungary
 Ta’if,Saudi Arabia
 Tabaco City,Philippines
 Taboão da Serra,Brazil
-Tachikawa,Japan
 Tabriz,Iran
 Tacheng,China
+Tachikawa,Japan
 Tacloban City,Philippines
-Tacoma, Washington,United States
-Taganrog,Russia
-Taebaek,South Korea
-Taguig City,Philippines
 Tacna,Peru
+Tacoma, Washington,United States
+Taebaek,South Korea
+Taganrog,Russia
+Taguig City,Philippines
 Tagum City,Philippines
 Taian,China
 Taichung,Taiwan
@@ -3075,8 +3075,8 @@ Taunggyi,Myanmar
 Tauranga,New Zealand
 Taytay, Rizal,Philippines
 Tbilisi,Georgia
-Tebessa,Algeria
 Tegal,Indonesia
+Tebessa,Algeria
 Tegucigalpa,Honduras
 Tehran,Iran
 Tehuacán,Mexico
@@ -3104,10 +3104,9 @@ Thalassery,India
 Thane,India
 Thanjavur,India
 The Hague,Netherlands
-Thessaloniki,Greece
 Thiès,Senegal
-Thimphu,Bhutan
 Thiruvananthapuram,India
+Thimphu,Bhutan
 Thousand Oaks, California,United States
 Thrissur,India
 Thunder Bay,Canada
@@ -3116,6 +3115,7 @@ Tianmen,China
 Tianshui,China
 Tiaret,Algeria
 Tieli,China
+Thessaloniki,Greece
 Tieling,China
 Tijuana,Mexico
 Tilburg,Netherlands
@@ -3211,14 +3211,14 @@ Tyumen,Russia
 Ube,Japan
 Uberaba,Brazil
 Uberlândia,Brazil
-Ubon Ratchathani,Thailand
 Udaipur,India
 Udine,Italy
 Udon Thani,Thailand
 Udupi,India
+Ubon Ratchathani,Thailand
 Ueda,Japan
-Ufa,Russia
 Uji,Japan
+Ufa,Russia
 Ujjain,India
 Ujung Pandang,Indonesia
 Ukhta,Russia
@@ -3252,91 +3252,88 @@ Utrecht,Netherlands
 Utsunomiya,Japan
 Uzhhorod,Ukraine
 Vadodara,India
-Valdivia,Chile
-Valencia,Spain
 Valencia,Philippines
+Valdivia,Chile
 Valencia,Venezuela
 Valenciennes,France
 Valladolid,Spain
-Valledupar,Colombia
 Valle de Chalco,Mexico
+Valledupar,Colombia
+Vallejo,United States
+Valparai,India
 Valparaíso,Chile
-Valsad,India
 Van,Turkey
 Vanadzor,Armenia
-Vallejo,United States
 Vancouver,United States
 Vancouver,Canada
 Vantaa,Finland
 Varamin,Iran
 Varanasi,India
-Varginha,Brazil
-Varna,Bulgaria
+Valencia,Spain
+Valera,Venezuela
 Várzea Grande,Brazil
+Varginha,Brazil
 Västerås,Sweden
-Vatakara,India
 Vaughan,Canada
 Velikiye Luki,Russia
-Valparai,India
 Veliky Novgorod,Russia
-Venice,Italy
+Valsad,India
 Vellore,India
 Veracruz,Mexico
+Venice,Italy
 Vereeniging,South Africa
 Verona,Italy
-Viamão,Brazil
 Vicente López,Argentina
 Vicenza,Italy
 Victoria de Las Tunas,Cuba
+Viamão,Brazil
 Victoria,Canada
 Vidhyanagar,
+Varna,Bulgaria
 Vienna,Austria
-Valera,Venezuela
-Vientiane,Laos
+Vigo,Spain
 Vijayawada,India
-Vila Velha,Brazil
 Vila Nova de Gaia,Portugal
+Vila Velha,Brazil
 Villa Nicolás Romero,Mexico
 Villahermosa,Mexico
 Villavicencio,Colombia
-Vilnius,Lithuania
+Vatakara,India
 Villeurbanne,France
-Vigo,Spain
+Vilnius,Lithuania
+Vientiane,Laos
 Vinh,Vietnam
 Vinnytsia,Ukraine
-Viranşehir,Turkey
 Visakhapatnam,India
 Vitebsk,Belarus
 Vitória da Conquista,Brazil
+Viranşehir,Turkey
 Vitória de Santo Antão,Brazil
 Vitória,Brazil
 Vitoria-Gasteiz,Spain
 Vizianagaram,India
 Vladikavkaz,Russia
-Viña del Mar,Chile
+Vladivostok,Russia
 Vlorë,Albania
-Volgograd,Russia
 Volgodonsk,Russia
+Volgograd,Russia
 Vologda,Russia
 Volos,Greece
+Vladimir,Russia
 Volta Redonda,Brazil
 Volzhsky,Russia
+Vosloorus,South Africa
 Voronezh,Russia
 Votkinsk,Russia
 Vũng Tàu,Vietnam
-Vosloorus,South Africa
-Vladivostok,Russia
-Vladimir,Russia
+Viña del Mar,Chile
 Waco,United States
 Wad Madani,Sudan
 Wadhwan,India
 Wafangdian,China
 Wagga Wagga,Australia
-Wah Cantonment,Pakistan
 Wakayama,Japan
-Wałbrzych,Poland
-Walsall,United Kingdom
-Wanzhou District,China
+Wah Cantonment,Pakistan
 Warangal,India
 Wardha,India
 Warren,United States
@@ -3351,8 +3348,11 @@ Weihui,China
 Weinan,China
 Wellington,New Zealand
 Wendeng,China
+Wałbrzych,Poland
+Wanzhou District,China
 Wenzhou,China
-West Bromwich,United Kingdom
+Walsall,United Kingdom
+West Covina,United States
 West Jordan, Utah,United States
 West Valley City, Utah,United States
 Westminster,United States
@@ -3365,11 +3365,10 @@ Windhoek,Namibia
 Windsor,Canada
 Winnipeg,Canada
 Winston-Salem,United States
-Winterthur,&nbsp;Switzerland
+Winterthur,Switzerland
 Witten,Germany
 Włocławek,Poland
 Wolfsburg,Germany
-West Covina,United States
 Wollongong,Australia
 Wolverhampton,United Kingdom
 Wonju,South Korea
@@ -3388,35 +3387,36 @@ Wuyishan,China
 Wuzhong,China
 Wuzhou,China
 Würzburg,Germany
+West Bromwich,United Kingdom
 Xai-Xai,Mozambique
 Xiangfan,China
+Xiamen,China
+Xalapa,Mexico
 Xiangtan,China
 Xianning,China
 Xiantao,China
 Xianyang,China
 Xiaogan,China
 Xiaoshan,China
-Xalapa,Mexico
 Xichang,China
 Xilinhaote,China
 Xingcheng,China
-Xiamen,China
-Xinghua,China
-Xining,China
-Xingyi,China
-Xintai,China
-Xinxiang,China
-Xi'an,China
-Xinyang,China
-Xinyi,China
-Xinyu,China
-Xinzhou,China
-Xo‘jayli,Uzbekistan
-Xuancheng,China
-Xuchang,China
-Xochimilco,Mexico
-Xinji,China
 Xingtai,China
+Xingyi,China
+Xinghua,China
+Xinji,China
+Xining,China
+Xinxiang,China
+Xintai,China
+Xinyi,China
+Xinyang,China
+Xinzhou,China
+Xinyu,China
+Xochimilco,Mexico
+Xuancheng,China
+Xo‘jayli,Uzbekistan
+Xuchang,China
+Xi'an,China
 Yachiyo,Japan
 Yakutsk,Russia
 Yamagata,Japan
@@ -3425,25 +3425,25 @@ Yamato, Kanagawa,Japan
 Yamoussoukro,Ivory Coast
 Yamuna Nagar,India
 Yan'an,China
+Yangjiang,China
 Yaizu,Japan
 Yakeshi,China
-Yangjiang,China
+Yangquan,China
 Yangon (Rangoon),Myanmar
 Yancheng,China
-Yangzhou,China
 Yantai,China
+Yangzhou,China
 Yanji,China
-Yangquan,China
-Yaoundé,Cameroon
+Yao,Japan
 Yaroslavl,Russia
+Yaoundé,Cameroon
 Yatsushiro,Japan
 Yavatmal,India
-Yekaterinburg,Russia
 Yazd,Iran
+Yekaterinburg,Russia
 Yelets,Russia
 Yenakiieve,Ukraine
 Yeosu,South Korea
-Yao,Japan
 Yerevan,Armenia
 Yibin,China
 Yichang,China
@@ -3456,13 +3456,13 @@ Yingcheng,China
 Yingkou,China
 Yingtan,China
 Yining,China
+Yiwu,China
 Yixing,China
 Yiyang,China
 Yizheng,China
 Yogyakarta,Indonesia
-Yokohama,Japan
-Yiwu,China
 Yokkaichi,Japan
+Yokohama,Japan
 Yokosuka,Japan
 Yonago,Japan
 Yong'an,China
@@ -3484,24 +3484,24 @@ Yavatmal,India
 Yuendumu,Australia
 Zaanstad,Netherlands
 Zabol,Iran
-Zagazig,Egypt
+Zabrze,Poland
+Zacatecas,Mexico
 Zagreb,Croatia
-Zahedan,Iran
 Zama,Japan
+Zahedan,Iran
+Zagazig,Egypt
 Zamboanga City,Philippines
 Zamora de Hidalgo,Mexico
 Zanjan,Iran
 Zanzibar City,Tanzania
 Zaoyang,China
 Zaozhuang,China
-Zacatecas,Mexico
-Zaporizhia,Ukraine
 Zapopan,Mexico
-Zárate,Argentina
+Zaporizhia,Ukraine
 Zaragoza,Spain
-Zaria,Nigeria
+Zárate,Argentina
 Zarqa,Jordan
-Zabrze,Poland
+Zaria,Nigeria
 Zelenodolsk,Russia
 Zelenograd,Russia
 Zenica,Bosnia and Herzegovina
@@ -3541,7 +3541,7 @@ Zoetermeer,Netherlands
 Zrenjanin,Serbia
 Zunyi,China
 Zuwarah,Libya
-Zürich,&nbsp;Switzerland
+Zürich,Switzerland
 Zwickau,Germany
 Zwolle,Netherlands
 Zakopane,Poland
