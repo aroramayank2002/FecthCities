@@ -1,0 +1,10 @@
+npm-debug.log*
+.DS_Store
+screenShots
+allure-report
+allure-results*
+conf/tests.js
+node_modules
+errorShots
+package-lock.json
+debug.log

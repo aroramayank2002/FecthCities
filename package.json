@@ -1,0 +1,41 @@
+{
+  "name": "automation-html5-games",
+  "version": "0.1.0",
+  "description": "Appium Tests for Mobile Roulette using webdriverio",
+  "author": {
+    "name": "NetEnt AB (publ)",
+    "email": "info@netent.com",
+    "url": "https://www.netent.com/"
+  },
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "https://git.netent.com/projects/LIVETOOLS/repos/automation-html5-games"
+  },
+  "scripts": {
+    "lint": "eslint . --fix",
+    "test": "wdio wdio.conf.js",
+    "wdio": "wdio",
+    "clean": "node ./util/clean.js",
+    "report": "node ./util/report.js && allure serve ./results/allure-results"
+  },
+  "devDependencies": {
+    "bunyan": "^1.8.12",
+    "bunyan-format": "^0.2.1",
+    "chai": "4.1.2",
+    "chai-as-promised": "7.1.1",
+    "chromedriver": "^2.37.0",
+    "dom-parser": "^0.1.5",
+    "eslint": "^2.13.1",
+    "eslint-plugin-mocha": "^4.11.0",
+    "wdio-allure-reporter": "0.3.2",
+    "wdio-chromedriver-service": "^0.1.2",
+    "wdio-dot-reporter": "0.0.9",
+    "wdio-mocha-framework": "^0.5.12",
+    "webdriverio": "^4.10.2"
+  },
+  "dependencies": {
+    "delete": "^1.1.0",
+    "ncp": "^2.0.0"
+  }
+}

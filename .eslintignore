@@ -1,0 +1,9 @@
+errorShots/
+node_modules/
+wdio.conf.js
+wdio.ios.conf.js
+dist/
+conf/
+allure-report/
+allure-results/
+resource_usage/
