@@ -6,7 +6,7 @@ const formatOut = bformat({ outputMode: "short" });
 const domParser = require("dom-parser");
 const fs = require("fs");
 
-const CITIES_FILE = "cities.txt";
+const CITIES_FILE = "./data-generated/cities.txt";
 let counter = 0;
 let BASE_URL = "https://en.wikipedia.org/wiki/List_of_towns_and_cities_with_100,000_or_more_inhabitants/cityname:_";
 let startTime = new Date().getTime();
