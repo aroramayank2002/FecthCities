@@ -27,3 +27,5 @@ node .\src\GenerateUserData.js
 http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/nlp/corpora/names/
 https://data.world/len/us-first-names-database/workspace/file?filename=Common_Surnames_Census_2000.csv
 https://www.npmjs.com/package/node-line-reader
+https://www.npmjs.com/package/diskdb
+https://www.sqlite.org/download.html

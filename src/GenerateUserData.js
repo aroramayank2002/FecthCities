@@ -33,7 +33,6 @@ function removeFile() {
     });
 }
 
-
 function saveToUSerDataFile(text) {
     fs.appendFile(USER_DATA_FILE, text, function (err) {
         if (err) {throw err; }

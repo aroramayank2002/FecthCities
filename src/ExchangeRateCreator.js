@@ -32,7 +32,6 @@ function removeFile() {
     });
 }
 
-
 function saveToFile(text) {
     fs.appendFile(EXCHANGE_RATE_FILE, text, function (err) {
         if (err) {throw err; }
@@ -62,4 +61,4 @@ function createExchangeRates() {
 
 removeFile().then(() => {
     createExchangeRates();
-})
+});

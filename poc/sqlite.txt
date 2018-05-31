@@ -1,0 +1,6 @@
+Reference
+https://www.tutorialspoint.com/sqlite/sqlite_commands.htm
+
+C:\Users\mayank.arora\Google Drive\QA\FecthCities\poc\json>sqlite3 sql.db
+.tables
+DROP TABLE CITIES;

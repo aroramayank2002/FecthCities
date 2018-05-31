@@ -28,7 +28,6 @@ describe("Fetch cities from wiki", function (done) {
     // this.retries(0);
     let charArray = [];
 
-
     function getCharArray() {
         let startAscii = "A".charCodeAt(0);
         let endAscii = "Z".charCodeAt(0);

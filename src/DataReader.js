@@ -1,6 +1,6 @@
 // node .\poc\LineReader.js
-const path = require('path');
-const LineReader = require('node-line-reader').LineReader;
+const path = require("path");
+const LineReader = require("node-line-reader").LineReader;
 
 const FOLDER_DATA_STATIC = `${__dirname}/../data-static/`;
 const FILE_NAME_MALE = "names_male.txt";
@@ -12,40 +12,39 @@ const readerNameFemale = new LineReader(path.join(FOLDER_DATA_STATIC, FILE_NAME_
 const readerNameSurname = new LineReader(path.join(FOLDER_DATA_STATIC, FILE_SURNAME));
 
 // Each execution of nextLine will get a following line of text from the input file
-function getNextLine(reader){
+function getNextLine(reader) {
     return new Promise((resolve, reject) => {
-      reader.nextLine(function (err, line) {
-          if (!err) {
+        reader.nextLine(function (err, line) {
+            if (!err) {
             //  console.log('file line: ', line);
-              if(line === null){
+                if (line === null) {
+                    reject("No_data_found");
+                } else {
+                    resolve(line);
+                }
+            } else {
                 reject("No_data_found");
-              }else{
-                resolve(line);
-              }
-          }else{
-            reject("No_data_found");
-          }
-      });
-
+            }
+        });
     });
 }
 
 getNextLine(readerNameFemale)
 .then((value) => {
-  console.log(`Line: ${value}`);
-  return getNextLine(readerNameMale);
+    console.log(`Line: ${value}`);
+    return getNextLine(readerNameMale);
 })
 .then((value) => {
-  console.log(`Line: ${value}`);
-  return getNextLine(readerNameMale);
+    console.log(`Line: ${value}`);
+    return getNextLine(readerNameMale);
 })
 .then((value) => {
-  console.log(`Line: ${value}`);
-  return getNextLine(readerNameSurname);
+    console.log(`Line: ${value}`);
+    return getNextLine(readerNameSurname);
 })
 .then((value) => {
-  console.log(`Line: ${value}`);
+    console.log(`Line: ${value}`);
 }).
 catch((error) => {
-  console.log(error);
+    console.log(error);
 });
