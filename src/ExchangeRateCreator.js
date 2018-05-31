@@ -4,8 +4,6 @@ const bformat = require("bunyan-format");
 const formatOut = bformat({ outputMode: "short" });
 const fs = require("fs");
 
-let startTime = new Date().getTime();
-
 // info, debug, trace
 let log = bunyan.createLogger({
     name: "Test-generateExchangeRates",

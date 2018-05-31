@@ -28,6 +28,7 @@
     "dom-parser": "^0.1.5",
     "eslint": "^2.13.1",
     "eslint-plugin-mocha": "^4.11.0",
+    "node-line-reader": "0.0.2",
     "wdio-allure-reporter": "0.3.2",
     "wdio-chromedriver-service": "^0.1.2",
     "wdio-dot-reporter": "0.0.9",
